@@ -1,0 +1,10 @@
+{
+    "plugins": ["-sharing", "ga"],
+    "pluginsConfig":
+    {
+        "ga":
+        {
+            "token": "UA-83271338-1"
+        }
+    }
+}
